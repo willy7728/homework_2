@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class Main {
 
     public static void main(String[] args) {
+//         季節判斷
         Scanner scn = new Scanner(System.in);
         String v1 = scn.next(), v2 = scn.next(), v3 = scn.next(), v4 = scn.next();
         switch (v1){
